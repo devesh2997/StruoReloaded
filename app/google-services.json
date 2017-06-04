@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "889043485053",
+    "firebase_url": "https://struo-v1.firebaseio.com",
+    "project_id": "struo-v1",
+    "storage_bucket": "struo-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889043485053:android:fec885863d4bc0c7",
+        "android_client_info": {
+          "package_name": "com.theneutrinos.struo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889043485053-dp66cgnag71597ql5h4oj6aqcpfeklrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theneutrinos.struo",
+            "certificate_hash": "BD1E387E9283FBDDBA79D18336DF0175E263F402"
+          }
+        },
+        {
+          "client_id": "889043485053-jsmo9776346no62sta8l9aeujnblnn7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb4w29_X2PX6ZLmMuV9nRb9gUfRWdDU3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889043485053-jsmo9776346no62sta8l9aeujnblnn7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

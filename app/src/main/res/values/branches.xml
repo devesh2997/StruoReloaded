@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="branches">
+        <item>Applied Geology</item>
+        <item>Applied Geophysics</item>
+        <item>Chemical Engg</item>
+        <item>Civil Engg</item>
+        <item>Computer Science</item>
+        <item>Electrical Engg</item>
+        <item>Electronics and Communication</item>
+        <item>Electronics and Instrumentation</item>
+        <item>Engineering Physics</item>
+        <item>Environmental Engg</item>
+        <item>Mechanical Engg</item>
+        <item>Mathematics and Computing</item>
+        <item>Mineral Engg</item>
+        <item>Mining Engg</item>
+        <item>Mining Machinery Engg</item>
+        <item>Petroleum Engg</item>
+    </string-array>
+</resources>

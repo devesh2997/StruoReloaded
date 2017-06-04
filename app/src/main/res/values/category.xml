@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Academics</item>
+        <item>Administration</item>
+        <item>Campus</item>
+        <item>Facilities</item>
+        <item>Faculty</item>
+        <item>Infrastructure</item>
+        <item>Others</item>
+    </string-array>
+</resources>
